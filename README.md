@@ -149,8 +149,8 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 
-### GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=victor-gurbani)
+<!-- ### GitHub Streak
+ ![GitHub Streak](https://streak-stats.demolab.com/?user=victor-gurbani) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />

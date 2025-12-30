@@ -1,11 +1,10 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0e75b6&height=200&section=header&text=V%C3%ADctor%20Gurbani&fontSize=60&fontAlignY=42&desc=%F0%9D%90%BF%F0%9D%91%9C%F0%9D%91%94%F0%9D%91%96%F0%9D%91%90%20%F0%9D%91%A4%F0%9D%91%96%F0%9D%91%A1%E2%84%8E%F0%9D%91%96%F0%9D%91%9B%20%F0%9D%90%B4%F0%9D%91%9F%F0%9D%91%A1%20%E2%8B%85%20%F0%9D%90%B4%F0%9D%91%9F%F0%9D%91%A1%20%F0%9D%91%A4%F0%9D%91%96%F0%9D%91%A1%E2%84%8E%F0%9D%91%96%F0%9D%91%9B%20%F0%9D%90%BF%F0%9D%91%9C%F0%9D%91%94%F0%9D%91%96%F0%9D%91%90%0A&descSize=20&descAlignY=68&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-# Hi there, I'm Victor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <img src="https://komarev.com/ghpvc/?username=varfield-g&label=Welcome!&color=0e75b6&style=flat-square&abbreviated=true" alt="varfield-g" />
 
-<h3>𝐿𝑜𝑔𝑖𝑐 𝑤𝑖𝑡ℎ𝑖𝑛 𝑎𝑟𝑡, 𝑎𝑟𝑡 𝑤𝑖𝑡ℎ𝑖𝑛 𝑙𝑜𝑔𝑖𝑐.</h3>
-
-<img src="https://komarev.com/ghpvc/?username=varfield-g&label=Profile%20views&color=0e75b6&style=flat" alt="varfield-g" />
-
+  
 <br/>
 <br/>
 
@@ -133,9 +132,9 @@
     </td>
   </tr>
 </table>
+<br/>
 
-
-<br />
+<h3>Connect with me</h3>
   <a href="https://linkedin.com/in/victor-gurbani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -151,7 +150,7 @@
 
 <!-- ### GitHub Streak
  ![GitHub Streak](https://streak-stats.demolab.com/?user=victor-gurbani) -->
-
+<hr />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />

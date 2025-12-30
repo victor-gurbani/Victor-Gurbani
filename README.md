@@ -16,11 +16,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **many projects**
-- 🌱 I’m currently deepening my knowledge about **what I know**
-- 👯 I’m looking to collaborate on **innovative ideas**
-- 💬 Ask me about **what we could work together**
-- ⚡ Fun fact: **Started programming when I was 5 years old**
+- 🔭 I’m currently architecting solutions at the intersection of **Mathematics and Computer Science**
+- 🌱 I’m currently deepening my proficiency in **Quantitative Analysis, Algorithms, and System Security**
+- 👯 I’m looking to collaborate on **interdisciplinary research and technical innovation**
+- 💬 Ask me about **the convergence of creative arts and rigorous logic**
+- ⚡ Fun fact: **Synthesizing code since age 5**
 
 <br/>
 

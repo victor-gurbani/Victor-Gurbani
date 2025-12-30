@@ -38,8 +38,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3.4.1
         with:
-          # Replace with your actual github username
-          github_user_name: ${{ github.victor-gurbani }}
+          github_user_name: Victor-Gurbani
           outputs: |
             profile/github-snake.svg
             profile/github-snake-dark.svg?palette=github-dark 

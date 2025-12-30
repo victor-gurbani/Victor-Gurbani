@@ -1,0 +1,75 @@
+<svg fill="none" viewBox="0 0 1440 100" width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        /* BASE SETTINGS */
+        svg { width: 100%; display: block; }
+
+        /* LINES: The Data Highway */
+        .line { 
+            stroke: #0e75b6; 
+            stroke-width: 1.5; 
+            opacity: 0.5;
+            stroke-dasharray: 10 20; /* Total pattern = 30px */
+            animation: flow 2s linear infinite, drift 10s ease-in-out infinite alternate;
+        }
+
+        /* CONNECTORS: The Neural Synapses */
+        .connector {
+            stroke: #0e75b6; 
+            stroke-width: 1; 
+            opacity: 0.3;
+            stroke-dasharray: 4 16; /* Total pattern = 20px */
+            animation: flow-reverse 4s linear infinite, drift 12s ease-in-out infinite alternate-reverse;
+        }
+
+        /* NODES: The Data Points */
+        .node { 
+            fill: #0e75b6; 
+            animation: pulse 4s ease-in-out infinite;
+        }
+        
+        /* PERFECT LOOP ANIMATIONS */
+        @keyframes flow {
+            from { stroke-dashoffset: 30; } /* Matches dasharray sum (10+20) */
+            to { stroke-dashoffset: 0; }
+        }
+        
+        @keyframes flow-reverse {
+            from { stroke-dashoffset: 0; }
+            to { stroke-dashoffset: 20; } /* Matches dasharray sum (4+16) */
+        }
+
+        /* SUBTLE BREATHING MOTION */
+        @keyframes drift {
+            0% { transform: translateY(0px); opacity: 0.5; }
+            100% { transform: translateY(4px); opacity: 0.7; }
+        }
+
+        @keyframes pulse { 
+            0% { opacity: 0.4; r: 3; } 
+            50% { opacity: 1; r: 5; } 
+            100% { opacity: 0.4; r: 3; } 
+        }
+    </style>
+
+    <path d="M-50,80 Q360,20 720,80 T1490,80" class="line" />
+    <path d="M-50,50 Q400,90 800,40 T1490,50" class="connector" style="animation-duration: 6s" />
+    
+    <g class="network">
+        <line x1="100" y1="80" x2="200" y2="40" class="connector" />
+        <line x1="200" y1="40" x2="350" y2="70" class="line" />
+        <line x1="350" y1="70" x2="500" y2="30" class="connector" />
+        <line x1="500" y1="30" x2="650" y2="80" class="line" />
+        <line x1="650" y1="80" x2="800" y2="40" class="connector" />
+        <line x1="800" y1="40" x2="950" y2="70" class="line" />
+        <line x1="950" y1="70" x2="1100" y2="30" class="connector" />
+        <line x1="1100" y1="30" x2="1250" y2="80" class="line" />
+        <line x1="1250" y1="80" x2="1450" y2="50" class="connector" />
+    </g>
+
+    <circle cx="200" cy="40" r="4" class="node" style="animation-delay: 0s" />
+    <circle cx="350" cy="70" r="3" class="node" style="animation-delay: 0.5s" />
+    <circle cx="500" cy="30" r="5" class="node" style="animation-delay: 1s"/>
+    <circle cx="800" cy="40" r="4" class="node" style="animation-delay: 1.5s" />
+    <circle cx="1100" cy="30" r="5" class="node" style="animation-delay: 2s"/>
+    <circle cx="1250" cy="80" r="3" class="node" style="animation-delay: 2.5s" />
+</svg>

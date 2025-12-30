@@ -164,3 +164,5 @@
 </picture>
   
 </div>
+
+  <img alt="network-animated-footer" src="./profile/footer_network.svg" />

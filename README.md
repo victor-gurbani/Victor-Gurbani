@@ -23,7 +23,9 @@
 
 ## GitHub Stats
 
-![$$USERNAME$$'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Gurbani&show_icons=true&theme=radical&rank_icon=github)
+![$$Victor$$'s GitHub stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+
 
 ## Top Languages
 

@@ -21,7 +21,7 @@ jobs:
         with:
           card: stats
           # I added 'theme=radical' and 'rank_icon=github' to match your current profile
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&rank_icon=github
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=9f9f9f&hide_border=true&rank_icon=github
           path: profile/stats.svg
           token: ${{ secrets.MY_STATS_PAT }}
 
@@ -31,7 +31,7 @@ jobs:
         with:
           card: top-langs
           # Matches your 'compact' layout and 'radical' theme
-          options: username=${{ github.repository_owner }}&layout=compact&theme=radical
+          options: username=${{ github.repository_owner }}&layout=compact&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=9f9f9f&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.MY_STATS_PAT }}
       # 3. Generate Contribution Snake

@@ -148,4 +148,14 @@
   <a href="https://www.buymeacoffee.com/varfield">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
+
+### GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=victor-gurbani)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
+  <img alt="github-snake" src="./profile/github-snake.svg" />
+</picture>
+  
 </div>

@@ -2,7 +2,7 @@
 
 # Hi there, I'm Victor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### An innovative developer
+<h3>𝐿𝑜𝑔𝑖𝑐 𝑤𝑖𝑡ℎ𝑖𝑛 𝑎𝑟𝑡, 𝑎𝑟𝑡 𝑤𝑖𝑡ℎ𝑖𝑛 𝑙𝑜𝑔𝑖𝑐.</h3>
 
 <img src="https://komarev.com/ghpvc/?username=varfield-g&label=Profile%20views&color=0e75b6&style=flat" alt="varfield-g" />
 

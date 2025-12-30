@@ -10,10 +10,11 @@
 
 </div>
 
-<table>
-  <tr>
-    <td valign="top" width="55%">
 
+<div align="center">
+  
+<div align="left" width="60%"> <!-- TODO: fix this -->
+  
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently architecting solutions at the intersection of **Mathematics and Computer Science**
@@ -22,10 +23,21 @@
 - 💬 Ask me about **the convergence of creative arts and rigorous logic**
 - ⚡ Fun fact: **Synthesizing code since age 5**
 
+</div>
+  
+
+<table>
+  <tr>
+    <td valign="top">
+
+### 🚀 Languages & Tools
+
+<img src="./profile/top-langs.svg" alt="Top Languages" />
+
 <br/>
 
 </td>
-    <td valign="top" width="45%">
+    <td valign="top">
 
 ### 📊 GitHub Stats
 
@@ -36,14 +48,11 @@
    </td>
   </tr>
 </table>
+</div>
 
 <br/>
 
 <div align="center">
-
-### 🚀 Languages & Tools
-
-<img src="./profile/top-langs.svg" alt="Top Languages" />
 
 <br/>
 <br/>

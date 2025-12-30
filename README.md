@@ -134,11 +134,16 @@
   </tr>
 </table>
 
-</div>
+
+<br />
+  <a href="https://linkedin.com/in/victor-gurbani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+
 
 <br/>
 
-<div align="center">
   <h3>Support</h3>
   <a href="https://www.buymeacoffee.com/varfield">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />

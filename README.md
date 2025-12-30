@@ -54,10 +54,7 @@
 
 <div align="center">
 
-<br/>
-<br/>
-
-### 🚀 Tech Stack
+  ### 🚀 Tech Stack
 
 <table>
   <tr>
@@ -143,7 +140,7 @@
 </table>
 <br/>
 
-<h3>Connect with me</h3>
+<h3>🔗 Connect with me</h3>
   <a href="https://linkedin.com/in/victor-gurbani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>

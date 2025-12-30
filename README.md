@@ -24,12 +24,11 @@
 ## GitHub Stats
 
 ![$$Victor$$'s GitHub stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
 
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Gurbani&layout=compact&theme=radical)
+![Top Languages](./profile/top-langs.svg)
 
 
 <h3 align="left">Support:</h3>

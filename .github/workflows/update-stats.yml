@@ -34,20 +34,9 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&theme=radical
           path: profile/top-langs.svg
           token: ${{ secrets.MY_STATS_PAT }}
-      # 3. Generate Streak Card
-      - name: Generate Streak Card
-        uses: connectedcars/github-readme-streak-stats@v1
-        with:
-          user: ${{ github.repository_owner }}
-          token: ${{ secrets.MY_STATS_PAT }} # Uses your PAT to count private contribs too!
-          theme: radical
-          hide_border: true
-        # This saves the file to the same folder
-        env:
-          OUTPUT_PATH: profile/streak.svg
-      # 4. Generate Contribution Snake
+      # 3. Generate Contribution Snake
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk@v3.4.1
         with:
           # Replace with your actual github username
           github_user_name: ${{ github.victor-gurbani }}

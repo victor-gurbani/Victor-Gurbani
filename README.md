@@ -53,6 +53,52 @@
 <br/>
 
 <div align="center">
+  <h3>🏆 Distinguished Projects (Jugend Forscht)</h3>
+  <table width="100%">
+    <tr>
+      <td width="33%" align="center" valign="top">
+        <strong>Digital School Access (2025)</strong>
+        <br/><br/>
+        <a href="https://github.com/victor-gurbani/jufo2025" target="_blank">
+          <img src="https://img.shields.io/badge/State_Prize-Digitalization-70238c?style=flat-square&logo=github" alt="State Prize Digitalization"/>
+        </a>
+        <br/>
+        <p>Full-stack biometric security ecosystem replacing physical keys with AI verification.</p>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </td>
+      <td width="33%" align="center" valign="top">
+        <strong>Smart Environment Control (2024)</strong>
+        <br/><br/>
+        <a href="https://github.com/victor-gurbani/jufo2024" target="_blank">
+          <img src="https://img.shields.io/badge/3rd_Prize-State_Competition-00529b?style=flat-square&logo=github" alt="3rd Prize State"/>
+        </a>
+        <br/>
+        <p>Distributed IoT network optimizing classroom ventilation and lighting using Neural Networks.</p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+        <img src="https://img.shields.io/badge/IoT-ESP8266-black?style=flat-square" />
+      </td>
+      <td width="33%" align="center" valign="top">
+        <strong>iCane Mobility Ecosystem (2021)</strong>
+        <br/><br/>
+        <a href="https://github.com/victor-gurbani/jufo2021" target="_blank">
+          <img src="https://img.shields.io/badge/State_Prize-Most_Creative_Work-800080?style=flat-square&logo=github" alt="State Prize Creativity"/>
+        </a>
+        <br/>
+        <p>Haptic virtual mobility aid for the visually impaired with GPS safety integration.</p>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-Embedded-00599C?style=flat-square" />
+        <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
 
   ### 🚀 Tech Stack
 

@@ -54,6 +54,39 @@
 
 <div align="center">
   <h3>🏆 Distinguished Projects (Jugend Forscht)</h3>
+
+  <div style="width: 100%; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; margin-bottom: 20px;">
+    <table width="100%" style="border: none;">
+      <tr>
+        <td align="center" style="border: none;">
+          <h3>
+            <a href="https://github.com/victor-gurbani/jufo2026" target="_blank">
+              🎹 Computational Musicology & Stylistic Embeddings (2026)
+            </a>
+          </h3>
+          <p>
+            <a href="https://github.com/victor-gurbani/jufo2026">
+              <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square" />
+            </a>
+            <a href="https://victor-gurbani.github.io/JuFo2026/figures/embeddings/composer_clouds_3d.html">
+              <img src="https://img.shields.io/badge/Demo-Interactive_3D_Space-4c1?style=flat-square&logo=google-earth&logoColor=white" />
+            </a>
+          </p>
+          <p align="center" style="max-width: 600px;">
+            A computational analysis pipeline quantifying musical style across the Baroque, Classical, and Romantic eras.
+            Processes <strong>36 features</strong> to create a high-dimensional space where compositions can be mathematically compared.
+          </p>
+          <div>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+            <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+            <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div>
+
   <table width="100%">
     <tr>
       <td width="33%" align="center" valign="top">

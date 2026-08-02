@@ -221,10 +221,10 @@
 
 <h3>🔗 Connect with me</h3>
   <a href="https://linkedin.com/in/victor-gurbani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTAwLjI4IDQ0OEg3LjRWMTQ4LjloOTIuODh6bS00Ni40OS0zNDAuN0MyNC4wOSAxMDcuMyAwIDgzLjIgMCA1My42QTUzLjYgNTMuNiAwIDAgMSAxMDcuMiA1My42YzAgMjkuNi0yNC4xIDUzLjctNTMuNCA1My43ek00NDcuOSA0NDhoLTkyLjY4VjMwMi40YzAtMzQuNy0uNy03OS4yLTQ4LjI5LTc5LjItNDguMjkgMC01NS42OSAzNy43LTU1LjY5IDc2LjdWNDQ4aC05Mi43OFYxNDguOWg4OS4wOHY0MC44aDEuM2MxMi40LTIzLjUgNDIuNjktNDguMyA4Ny44OC00OC4zIDk0IDAgMTExLjI4IDYxLjkgMTExLjI4IDE0Mi4zVjQ0OHoiLz48L3N2Zz4%3D" alt="LinkedIn" />
   </a>
   <a href="https://www.victorgurbani.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIvPjxwYXRoIGQ9Ik0zIDEyaDE4TTEyIDNjMi41IDIuNSA0IDUuNiA0IDlzLTEuNSA2LjUtNCA5Yy0yLjUtMi41LTQtNS42LTQtOXMxLjUtNi41IDQtOXoiLz48L3N2Zz4%3D" alt="Portfolio" />
   </a>
 
 

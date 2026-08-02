@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0e75b6&height=200&section=header&text=V%C3%ADctor%20Gurbani&fontSize=60&fontAlignY=42&desc=%F0%9D%90%BF%F0%9D%91%9C%F0%9D%91%94%F0%9D%91%96%F0%9D%91%90%20%F0%9D%91%A4%F0%9D%91%96%F0%9D%91%A1%E2%84%8E%F0%9D%91%96%F0%9D%91%9B%20%F0%9D%90%B4%F0%9D%91%9F%F0%9D%91%A1%20%E2%8B%85%20%F0%9D%90%B4%F0%9D%91%9F%F0%9D%91%A1%20%F0%9D%91%A4%F0%9D%91%96%F0%9D%91%A1%E2%84%8E%F0%9D%91%96%F0%9D%91%9B%20%F0%9D%90%BF%F0%9D%91%9C%F0%9D%91%94%F0%9D%91%96%F0%9D%91%90%0A&descSize=20&descAlignY=68&animation=fadeIn&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0e75b6&height=200&section=header&text=V%C3%ADctor%20Gurbani&fontSize=60&fontAlignY=42&desc=%F0%9D%90%BF%F0%9D%91%9C%F0%9D%91%94%F0%9D%91%96%F0%9D%91%90%20%F0%9D%91%A4%F0%9D%91%96%F0%9D%91%A1%E2%84%8E%F0%9D%91%96%F0%9D%91%9B%20%F0%9D%90%B4%F0%9D%91%9F%F0%9D%91%A1%20%E2%8B%85%20%F0%9D%90%B4%F0%9D%91%9F%F0%9D%91%A1%20%F0%9D%91%A4%F0%9D%91%96%F0%9D%91%A1%E2%84%8E%F0%9D%91%96%F0%9D%91%9B%20%F0%9D%90%BF%F0%9D%91%9C%F0%9D%91%94%F0%9D%91%96%F0%9D%91%90%0A&descSize=20&descAlignY=68&animation=fadeIn&fontColor=ffffff" alt="Víctor Gurbani — Logic within Art · Art within Logic" width="100%" />
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand">
   <img src="https://komarev.com/ghpvc/?username=varfield-g&label=Welcome!&color=0e75b6&style=flat-square&abbreviated=true" alt="varfield-g" />
 
   
@@ -17,11 +17,12 @@
   
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently architecting solutions at the intersection of **Mathematics and Computer Science**
-- 🌱 I’m currently deepening my proficiency in **Quantitative Analysis, Algorithms, and System Security**
-- 👯 I’m looking to collaborate on **interdisciplinary research and technical innovation**
-- 💬 Ask me about **the convergence of creative arts and rigorous logic**
-- ⚡ Fun fact: **Synthesizing code since age 5**
+- 🎼 I build at the intersection of **software, mathematics, and music**
+- 🔬 My computational-musicology research analyzes **36 harmonic, melodic, and rhythmic features** to model musical style and explore it interactively
+- 🛠️ I enjoy building systems end to end—from **embedded hardware and data pipelines** to **full-stack applications and visualizations**
+- 🧠 I’m especially interested in **applied machine learning, quantitative methods, algorithms, and system security**
+- 🤝 I’m open to **research collaborations and technically ambitious interdisciplinary projects**
+- 🎹 Beyond code, I’m a classical **pianist and violinist**
 
 </div>
   
@@ -66,10 +67,11 @@
           </h3>
           <p>
             <a href="https://github.com/victor-gurbani/jufo2026">
-              <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square" />
+              <img src="https://img.shields.io/badge/Award-1st_Prize_Landesrunde-9A6700?style=flat-square" alt="1st Prize at the Jugend forscht Landesrunde" />
+              <img src="https://img.shields.io/badge/Finalist-Bundesfinale_Qualifier-0E75B6?style=flat-square" alt="Jugend forscht Bundesfinale qualifier" />
             </a>
-            <a href="https://victor-gurbani.github.io/JuFo2026/figures/embeddings/composer_clouds_3d.html">
-              <img src="https://img.shields.io/badge/Demo-Interactive_3D_Space-4c1?style=flat-square&logo=google-earth&logoColor=white" />
+            <a href="https://empirical-music.victorgurbani.com">
+              <img src="https://img.shields.io/badge/Demo-Interactive_Web_App-2E7D32?style=flat-square&logo=googleearth&logoColor=white" alt="Explore the interactive JuFo 2026 web application" />
             </a>
           </p>
           <p align="center" style="max-width: 600px;">
@@ -77,10 +79,10 @@
             Processes <strong>36 features</strong> to create a high-dimensional space where compositions can be mathematically compared.
           </p>
           <div>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
-            <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+            <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+            <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+            <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
           </div>
         </td>
       </tr>
@@ -97,9 +99,9 @@
         </a>
         <br/>
         <p>Full-stack biometric security ecosystem replacing physical keys with AI verification.</p>
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+        <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       </td>
       <td width="33%" align="center" valign="top">
         <strong>Smart Environment Control (2024)</strong>
@@ -109,9 +111,9 @@
         </a>
         <br/>
         <p>Distributed IoT network optimizing classroom ventilation and lighting using Neural Networks.</p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-        <img src="https://img.shields.io/badge/IoT-ESP8266-black?style=flat-square" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+        <img src="https://img.shields.io/badge/IoT-ESP8266-black?style=flat-square" alt="IoT with ESP8266" />
       </td>
       <td width="33%" align="center" valign="top">
         <strong>iCane Mobility Ecosystem (2021)</strong>
@@ -121,9 +123,9 @@
         </a>
         <br/>
         <p>Haptic virtual mobility aid for the visually impaired with GPS safety integration.</p>
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++-Embedded-00599C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+        <img src="https://img.shields.io/badge/C++-Embedded-00599C?style=flat-square" alt="Embedded C++" />
+        <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="Bluetooth" />
       </td>
     </tr>
   </table>

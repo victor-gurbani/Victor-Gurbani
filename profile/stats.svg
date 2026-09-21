@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">V&#237;ctor Gurbani Carballo's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 72, Total Commits  (last year) : 1460, Total PRs: 94, Total Issues: 12, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 72, Total Commits  (last year) : 1459, Total PRs: 95, Total Issues: 13, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 92.43392951359296;
+        stroke-dashoffset: 91.79032397320493;
       }
     }
   
@@ -178,7 +178,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >94</text>
+      >95</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -193,7 +193,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >12</text>
+      >13</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
